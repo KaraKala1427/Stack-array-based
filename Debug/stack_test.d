@@ -1,0 +1,1 @@
+stack_test.o: ../stack_test.c
